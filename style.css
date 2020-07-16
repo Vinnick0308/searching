@@ -89,3 +89,22 @@ p{
 .fornavbar{
   text-align: center;
 }
+#wiki{
+ font-size-adjust: 75px;
+ color: #00ffff;
+ background-image: url(https://image.freepik.com/free-vector/_23-2147721684.jpg?3);
+ width: 300px;
+ height: 50px;
+ cursor: pointer;
+}
+ #text{
+   font-family: 'Rowdies',cursive;
+   font-size: 20px;
+   text-transform: uppercase;
+   background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #8AA9D6);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   color: #0B2349;
+   display: table;
+   margin: 20px auto;
+}
